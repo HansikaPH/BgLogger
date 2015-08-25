@@ -1,1 +1,6 @@
 The project contains the following dependencies
+achartengine-1.1.0.jar
+android-support-v4.jar
+droidText.0.2.jar
+
+Please make sure to add these libraries in order to successfully run the application.
