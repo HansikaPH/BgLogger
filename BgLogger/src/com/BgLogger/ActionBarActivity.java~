@@ -1,4 +1,3 @@
-
 package com.BgLogger;
 
 import com.BgLogger.activity.calling.CallMainActivity;
@@ -10,7 +9,6 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-
 
 public class ActionBarActivity extends FragmentActivity {
 
